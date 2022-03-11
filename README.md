@@ -1,1 +1,4 @@
 # Mission-to-Mars
+
+The design of a webpage can be quite benificial for those creating and reading the webpages.  With help from the NASA websites and information, beautiful images of the planet mars as well as informative facts about it are included on a webpage.  With a useful scraping tools like BeautifulSoup and Splinter some very informative and useful info is collected in real-time with one click of a button.  
+The organizational abilities of Jupyter made it quite simple to initially explore and scrape all the information before "mounting" all of it on an html frame.  First, the NASA Mars news site is explored for the most recent news article.  Following this is the JPB Space Featured Image that appears in the soup feature next.  The table of Mars Facts comes from galaxyfacts-mars.com and is displayed on the far right of the page.  Lastly, the sharp images of 4 Mars hemispheres is scraped and displayed.
